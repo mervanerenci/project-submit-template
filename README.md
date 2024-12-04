@@ -1,1 +1,3 @@
-# project-submit-template
+# [YOUR TITLE]
+
+# Projenin anlatımı ve özellikleri: 
